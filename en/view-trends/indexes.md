@@ -1,11 +1,10 @@
-# 指数说明
+# Indices
 
+## Global Blockchain Index (GBI)
 
-## 全球区块链指数（GBI）
+Global Blockchain Index, GBI is a comprehensive index reflecting the extent of the economic boom in the blockchain industry. The Index selects 17 major cryptocurrencies and calculates the index using a weighted average method.
 
-全球区块链指数，GBI是反映区块链行业经济繁荣程度的综合指数。 该指数选择17个主要加密货币并使用加权平均法计算指数。
-
-| 币种 | 成分 | 市值 |
+| Coin | Weighting | Value |
 | --- | --- | --- |
 |Bitcoin | 30%  | $236,507,394,438 |
 |Ethereum | 15%  | $73,032,775,269 |
@@ -25,13 +24,12 @@
 |GXS | 2%   | $209,801,290 |
 |Ethereum Classic |   2%  |  $209,801,290 |
 
-## Darpal 混合指数（DPC）
+## DP Composite Index (DPC) 
 
-Darpal 混合指数（DPC）是由DarpalRating 开发的综合性加密货币市场指数。指数成分股分为6类：货币和支付、操作系统、交易和交易、真实世界网关、技术解决方案，其他。选择每个类别内市值最高的十个代币作为指数成分。
+DP Composite Index (DPC) is a comprehensive cryptocurrency market index developed by DPRating.Index constituents are divided into 6 categories: Currency and Payment, Operating System, Trading and Transaction, Real World Gateway, Technical Solution, Others.
 
-每个类别内的代币均由市值加权，类别之间的权重取决于总市值的平方根。这样的双层加权方法确保大盘股成分不会扭曲整体指数值，同时防止排除小盘股类别。这使得DPC指数能够提供加密资产市场的整体表现。
 
-| 类别  |   成分和权重 |
+| Category  |   Weighting |
 | --- | --- |
 |Currency and Payment（37.6%） |  BTC(30.48%)、BCH(2.91%)、LTC(1.68%)、XMR(0.69%)、DASH(0.63%)、ETC(0.37%)、XVG(0.32%)、ZEC(0.17%)、NANO(0.17%) |
 | Operating System（23.6%）| ETH(17.24%)、EOS(2.09%)、ADA(1.68%)、NEO(1.47%)、QTUM(0.51%)、RHOC(0.16%)、AE(0.14%)、ZIL(0.13%)、IOST(0.11%)、ELF(0.08%) |
@@ -40,12 +38,13 @@ Darpal 混合指数（DPC）是由DarpalRating 开发的综合性加密货币市
 | Technical Solution（6.0%）   |   LSK(1.46%)、WAN(0.76%)、SC(0.63%)、STRAT(0.62%)、ZRX(0.49%)、KMD(0.45%)、ARDR(0.42%)、AION(0.40%)、LRC(0.40%)、GNT(0.38%) |
 | Others（6.5%）   |   TRX(3.61%)、STEEM(0.70%)、SNT(0.47%)、BAT(0.30%)、CENNZ(0.29%)、NAS(0.24%)、SUB(0.24%)、SYS(0.22%)、R(0.22%)、XIN(0.21%) |
 
+## Bitcoin Volatility Index (BVIX)
 
-## Darpal 比特币恐慌指数（BVIX）
+Bitcoin Volatility Index (BVIX) developed by DPRating. BVIX measures the 30-day expected implied volatilities derived from Bitcoin options. BVIX is implemented in the same way CBOE Volatility Index (VIX) is calculated.
 
-BVIX 以与计算 CBOE 波动率指数（VIX）相同的方式计算和反映比特币波动。BVIX 反映了投资者对未来价格波动的总体情绪和不确定性。 因此它也被称为比特币恐惧指数。
 
-## Fox.ONE 场外指数（FOI）
+## Fox.ONE OTC Index (FOI)
 
-Fox.ONE 场外指数结合多个场外交易所的价格，反映场外市场的价格波动。
-两条线之间的距离表示买和卖的价差，两条线与 `y=0` 的偏离距离表示与标准汇率的溢价。
+Fox.ONE OTC Index measures OTC markets volatilities from multiple OTC exchanges.
+The distance between the two lines represents the difference between the buy and sell, and the deviation of the two lines from y=0 represents a premium to the standard exchange rate.
+

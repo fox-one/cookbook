@@ -9,6 +9,7 @@
     * [指数说明](/view-trends/indexes.md)
 * [阅读资讯](/read-news/README.md)
 * [进行交易](/trade/README.md)
+    * [Ocean.ONE](/trade/ocean-one.md)
 * [钱包](/wallet/README.md)
 * [管理资产](/manage-assets/README.md)
     * [申请 API Key/Secret](/manage-assets/request-key-secret.md)
