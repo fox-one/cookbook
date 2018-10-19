@@ -1,6 +1,6 @@
 # 管理资产
 
-FoxOne 提供了 All in One 的资产管理功能。你可以在这里整合不同交易所或钱包中的加密货币资产。
+Fox.ONE 提供了 All in One 的资产管理功能。你可以在这里整合不同交易所或钱包中的加密货币资产。
 
 ## 首次使用需设置 PIN
 
@@ -10,16 +10,16 @@ FoxOne 提供了 All in One 的资产管理功能。你可以在这里整合不�
 
 ## 解锁资产管理页面
 
-为了保护你的隐私和敏感数据，FoxOne 会要求在查看资产之前，验证 PIN。请根据要求输入 PIN，即可完成验证。
+为了保护你的隐私和敏感数据，Fox.ONE 会要求在查看资产之前，验证 PIN。请根据要求输入 PIN，即可完成验证。
 
 ## 连接到交易所
 
-根据惯例，FoxOne 使用 API 来连接到交易所。为了使用交易所的 API，需要你事先在交易所中申请对应的 API Key 和 Secret，申请过程请参照[申请 API Key/Secret](/manage-assets/request-key-secret.md) 完成。
+根据惯例，Fox.ONE 使用 API 来连接到交易所。为了使用交易所的 API，需要你事先在交易所中申请对应的 API Key 和 Secret，申请过程请参照[申请 API Key/Secret](/manage-assets/request-key-secret.md) 完成。
 
 现在假设你已经有了 Key 和 Secret，那么可以进行连接到交易所操作
 
 1. 进入资产管理页面后，点击“连接到交易所”，或点击侧边栏上的“+”按钮，选择“连接到交易所”；
-2. 选择你要连接到交易所。目前 FoxOne 支持火币、币安和 Bithumb；
+2. 选择你要连接到交易所。目前 Fox.ONE 支持火币、币安和 Bithumb；
 3. 在对话框下方，输入 API Key 和 API Secret；
 4. 点击“连接”按钮，稍等片刻，即完成连接。可关闭对话框。
 

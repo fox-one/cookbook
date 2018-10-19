@@ -13,9 +13,9 @@ The wallet is based on the Mixin network, within Mixin the transfer would be fre
 
 - [Mixin Messenger](https://mixin.one)
 - [Press.One](https://press.one)
-- [Fox.One](https://www.fox.one)
+- [Fox.ONE](https://www.fox.one)
 
-Invite your friends to use Fox.One now.
+Invite your friends to use Fox.ONE now.
 
 ## The importance of PIN
 

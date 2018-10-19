@@ -1,6 +1,6 @@
-# FoxOne 键盘快捷键
+# Fox.ONE 键盘快捷键
 
-FoxOne 提供了快捷键，提高你的操作效率。
+Fox.ONE 提供了快捷键，提高你的操作效率。
 
 ## Windows 快捷键
 

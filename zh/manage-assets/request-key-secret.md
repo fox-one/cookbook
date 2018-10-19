@@ -6,7 +6,7 @@
 2. 在用户中心左下方找到 [API](https://www.binance.com/userCenter/createApi.html)，点击启用按钮
 3. 输入一个便于记忆的标签后，点击 Create New Key 来创建 API Key
 3. 输入短信验证码和二步验证，完成验证
-5. 生成后，将 API Key 和 Secret 输入到 FoxOne 来进行连接。
+5. 生成后，将 API Key 和 Secret 输入到 Fox.ONE 来进行连接。
 
 注意：
 
@@ -19,7 +19,7 @@
 1. 登录 Huobi 后，点击右上角人像，选择 [API 管理](https://www.huobi.pro/apikey/)
 2. 输入一个便于记忆的标签后，创建 API Key（密钥）
 3. 输入短信验证码和二步验证，完成验证
-4. 生成后，将 API Key 和 Secret Key 输入到 FoxOne 来进行连接。
+4. 生成后，将 API Key 和 Secret Key 输入到 Fox.ONE 来进行连接。
 
 注意：
 

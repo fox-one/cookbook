@@ -2,11 +2,11 @@
 
 ## 登录密码
 
-登录密码需在注册时进行设定，用于 FoxOne 登录。
+登录密码需在注册时进行设定，用于 Fox.ONE 登录。
 
 ## PIN
 
-PIN 是 FoxOne 保护你的敏感信息的方式。FoxOne 使用军用级加密算法保护确保你的隐私和安全。在 FoxOne 中，你可以根据安全需要，设定两种不同 PIN 码：
+PIN 是 Fox.ONE 保护你的敏感信息的方式。Fox.ONE 使用军用级加密算法保护确保你的隐私和安全。在 Fox.ONE 中，你可以根据安全需要，设定两种不同 PIN 码：
 
 ### 6 位数字 PIN
 
@@ -30,5 +30,5 @@ PIN 是 FoxOne 保护你的敏感信息的方式。FoxOne 使用军用级加密�
 
 ### 重置 PIN
 
-由于 PIN 在技术上的特殊性，我们不支持重置 PIN。如果需要重新设置 PIN 并且清空敏感资料，请[联系 FoxOne 工作人员协助](/contacts/README.md)。
+由于 PIN 在技术上的特殊性，我们不支持重置 PIN。如果需要重新设置 PIN 并且清空敏感资料，请[联系 Fox.ONE 工作人员协助](/contacts/README.md)。
 
